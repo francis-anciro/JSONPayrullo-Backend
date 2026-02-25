@@ -35,6 +35,7 @@ By integrating employee records with automated tracking, the system ensures data
 4. Start **Apache** and **MySQL** in XAMPP.
 5. Import .sql file inside DB/ to your database
 6. Inside 'app/', create a folder named config and make a config.php file inside with these contents:
+# NOTE! Edit the credentials in the pasted config
 ```
 <?php
 
