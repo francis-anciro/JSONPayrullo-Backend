@@ -34,21 +34,7 @@ By integrating employee records with automated tracking, the system ensures data
 3. Move the folder into `xampp/htdocs/`.
 4. Start **Apache** and **MySQL** in XAMPP.
 5. Import .sql file inside DB/ to your database
-   
----
-
-# Note
-
-- Check the port number shown in your Vite URL.  
-  Example:
-  
-- If the port is not `5173`, update this line in app/public/index.php to match port number
-
-Change:
-```php
-header("Access-Control-Allow-Origin: http://localhost:<--YOUR PORT NUMBER HERE-->");
-```
-Make a folder named config and make a config.php file inside with these contents:
+6. Make a folder named config and make a config.php file inside with these contents:
 ```
 <?php
 
@@ -63,3 +49,17 @@ define('URLROOT', 'http://localhost/JSONPayrullo');
 
 define('SITENAME', 'JSON Payrullo');
 ```
+---
+
+# Note
+
+- Check the port number shown in your Vite URL.  
+  Example:
+  
+- If the port is not `5173`, update this line in app/public/index.php to match port number
+
+Change:
+```php
+header("Access-Control-Allow-Origin: http://localhost:<--YOUR PORT NUMBER HERE-->");
+```
+
