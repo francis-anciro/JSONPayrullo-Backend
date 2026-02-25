@@ -15,7 +15,7 @@ By integrating employee records with automated tracking, the system ensures data
 ---
 
 # Requirements:
-- Frontend of this project: <a href="https://github.com/francis-anciro/JSONPayrullo-Backend" target="_blank"> Download here </a>
+- Frontend of this project: <a href="https://github.com/francis-anciro/JSONPayrullo-Frontend" target="_blank"> Download here </a>
 
 ---
 
