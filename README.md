@@ -1,17 +1,40 @@
-# Requirements
+# JSON Payrullo
 
-- **Database:** Inside DB/
-- **React Vite Frontend:** <a href="#">Download front end here</a>
+JSON Payrullo is a comprehensive HR and Payroll solution designed to centralize and simplify employee management through a secure relational database system.
+
+The platform enables administrators to:
+
+- Maintain detailed digital employee profiles  
+- Assign departments and job positions  
+- Manage employment types  
+- Track shifts and attendance records  
+- Process payroll using accurate, up-to-date personnel data  
+
+By integrating employee records with automated tracking, the system ensures data consistency and reliable payroll processing.
 
 ---
 
-# Setup
+# Requirements:
+- Frontend of this project: <a href="https://github.com/francis-anciro/JSONPayrullo-Backend" target="_blank"> Download here </a>
+
+---
+
+## Tech Stack
+
+- **Frontend:** Vite + React  
+- **Backend:** PHP  
+- **Database:** MySQL  
+
+---
+
+## Setup
 
 1. Download the ZIP file.
 2. Extract the files.
 3. Move the folder into `xampp/htdocs/`.
 4. Start **Apache** and **MySQL** in XAMPP.
 5. Import .sql file inside DB/ to your database
+   
 ---
 
 # Note
