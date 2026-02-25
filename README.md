@@ -30,11 +30,12 @@ By integrating employee records with automated tracking, the system ensures data
 ## Setup
 
 1. Download the ZIP file.
-2. Extract the files.
-3. Move the folder into `xampp/htdocs/`.
-4. Start **Apache** and **MySQL** in XAMPP.
-5. Import .sql file inside DB/ to your database
-6. Inside 'app/', create a folder named config and make a config.php file inside with these contents:
+2. Extract the ZIP.
+3. Move the extracted folder into `xampp/htdocs/`.
+4. Rename folder to JSON_Payrullo
+5. Start **Apache** and **MySQL** in XAMPP.
+6. Import .sql file inside DB/ to your database
+7. Inside 'app/', create a folder named config and make a config.php file inside with these contents:
 # NOTE! Edit the credentials in the pasted config
 ```
 <?php
