@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Feb 25, 2026 at 04:10 PM
+-- Generation Time: Feb 25, 2026 at 05:14 PM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -20,8 +20,6 @@ SET time_zone = "+00:00";
 --
 -- Database: `json_payrullo`
 --
-CREATE DATABASE IF NOT EXISTS `json_payrullo` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
-USE `json_payrullo`;
 
 DELIMITER $$
 --
